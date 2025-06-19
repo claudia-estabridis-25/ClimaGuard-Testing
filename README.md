@@ -1,2 +1,0 @@
-# ClimaGuard-Testing
-Acceptance Tests
